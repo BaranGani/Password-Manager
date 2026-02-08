@@ -8,6 +8,9 @@ out/
 *.iml
 target/
 
+vault.dat
+*.vault
+
 ### Eclipse ###
 .apt_generated
 .classpath
