@@ -1,4 +1,4 @@
-# CLI Password Manager (Java)
+# CLI Password Manager
 
 This project is a command-line password manager written in pure Java.  
 It stores credentials in a single encrypted vault file and requires a master password to unlock.
